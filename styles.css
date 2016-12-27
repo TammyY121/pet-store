@@ -1,0 +1,22 @@
+#all-pets{
+
+}
+
+body {
+	background-image: url("http://cdn.shopify.com/s/files/1/0153/0623/products/3_Stripe_Wallpaper_in_Baby_Blue_and_White_design_by_York_Wallcoverings_d14dd2a3-a367-438d-9964-f8d93bb1b475_large.jpg?v=1481586202");
+}
+
+header {
+	background-color: beige; 
+}
+
+.individual_pet {
+	background-color: beige;
+	padding: 10px;
+	margin-top: 100px;
+}
+
+img {
+	height: 100px; 
+	width: 150px;
+}
